@@ -1,3 +1,4 @@
+@Regression
 Feature: As a user, I want to sign up the StarThreeSixty
 
 Background:
